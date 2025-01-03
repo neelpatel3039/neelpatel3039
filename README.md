@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about Web Dev, Data Analytics, AI/ML, and UI/UX<br>📚 I'm currently learning Advanced Business Analytics and AI @ UoIT<br>🎯 Goals: Using my skills to contribute to the world in a meaningful way<br>🎲 Fun fact: I enjoy writing blogs and articles as well (like, not just code)</p>
+<p align="left">✨ Passionate about Data (and Business) Analytics and Web Development<br>📚 I'm currently learning Advanced Business Analytics and AI @ UoIT<br>🎯 Goals: Using my skills to contribute to the world in a meaningful way<br>🎲 Fun fact: I enjoy writing blogs and articles as well (like, not just code)</p>
 
 ###
 

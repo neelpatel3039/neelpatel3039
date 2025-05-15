@@ -29,6 +29,6 @@ Currently pursuing a Master's in **Business Analytics & AI**, and always open to
 ### 🤝 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-[Gmail](neelpatel3039@gmail.com) *(optional)*
+[Gmail](neelpatel3039@gmail.com)
 
 > Clean code. Clear data. Real impact.

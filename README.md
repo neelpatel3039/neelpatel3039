@@ -1,11 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Neel
 
-<p align="left">My name is Neel and I'm a student pursuing MS in Business Analytics and AI at the University of Ontario Institute of Technology. I have 3 years of industry experience working with data to extract insights, ensure quality, and build software for Institutional Shareholder Services (ISS STOXX).</p>
+**Data Professional · Python Developer** 
 
-<h2 align="left">About me</h2>
+I work at the intersection of **Data Quality**, **InfoSec**, **AI/ML**, **Data Analytics**, and **Data Engineering**, with a strong focus on **Python**, **R**, and building scalable, secure data solutions.
 
-<p align="left">✨ Passionate about Data (and Business) Analytics and Web Development<br>📚 I'm currently learning Advanced Business Analytics and AI @ UoIT<br>🎯 Goals: Using my skills to contribute to the world in a meaningful way<br>🎲 Fun fact: I enjoy writing blogs and articles as well (like, not just code)</p>
+Currently pursuing a Master's in **Business Analytics & AI**, and always open to connecting with peers solving real-world data challenges.
 
-<h2 align="left">I code/work with</h2>
+---
 
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" alt="tortoisegit logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /></div>
+### 🛠️ Tech Stack (Core)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelpatel3039&show_icons=true&hide=contribs&hide_title=true&hide_border=true&count_private=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelpatel3039&layout=compact&hide=html,css&hide_title=true&hide_border=true&theme=transparent" width="48%" />
+</div>
+
+---
+
+### 🤝 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/your-profile/)  
+[Gmail](neelpatel3039@gmail.com) *(optional)*
+
+> Clean code. Clear data. Real impact.

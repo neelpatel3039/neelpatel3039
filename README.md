@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Neel
 
-**Data Professional · Python Developer** 
-
-I work at the intersection of **Data Quality**, **InfoSec**, **AI/ML**, **Data Analytics**, and **Data Engineering**, with a strong focus on **Python**, **R**, and building scalable, secure data solutions.
-
-Currently pursuing a Master's in **Business Analytics & AI**, and always open to connecting with peers solving real-world data challenges.
+**MSc Analytics & AI • Finance & Banking • QA Automation & Software Engineering • Data Quality, Consulting, Analysis & Engineering • Python • SQL • R** 
 
 ---
 

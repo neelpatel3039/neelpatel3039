@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neel
 
-**MSc Analytics & AI • Finance & Banking • QA Automation & Software Engineering • Data Quality, Consulting, Analysis & Engineering • Python • SQL • R** 
+**Software Engineering • Data Quality, Consulting, Analysis & Engineering • Python • SQL • R** 
 
 ---
 

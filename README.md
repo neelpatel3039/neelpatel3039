@@ -18,15 +18,6 @@ In tech since 2015, academia since 2017, and the industry since 2021.
 
 ---
 
-### GitHub Activity
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelpatel3039&show_icons=true&hide=contribs&hide_title=true&hide_border=true&count_private=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelpatel3039&layout=compact&hide=html,css&hide_title=true&hide_border=true&theme=transparent" width="48%" />
-</div>
-
----
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/neelpatel3039/) | [Email](mailto:neelpatel3039@gmail.com)
